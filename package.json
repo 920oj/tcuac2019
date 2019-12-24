@@ -1,0 +1,20 @@
+{
+  "name": "tcuac2019",
+  "version": "1.0.0",
+  "description": "My hunky-dory Nuxt.js project",
+  "author": "Junya Oiwa",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "bootstrap-vue": "^2.1.0",
+    "nuxt": "^2.0.0",
+    "vue-moment": "^4.1.0"
+  },
+  "devDependencies": {}
+}
