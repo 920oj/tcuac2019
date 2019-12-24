@@ -52,7 +52,7 @@
     </b-container>
     <div id="footer">
       <p>Tokyo City University Advent Calendar 2019</p>
-      <p>このサイトは有志による非公式のものであり、学校当局とは何の関係もございません。</p>
+      <p>このサイトは東京都市大学の学生有志による非公式のものです。</p>
     </div>
   </div>
 </template>
