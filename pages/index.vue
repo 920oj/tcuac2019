@@ -6,7 +6,7 @@
         <p>#tcuac2019 特設サイト</p>
       </div>
       <div id="attention">
-        <p style="text-align: right; font-size: 0.8em;">なおこの写真は2018年の横浜キャンパス・光る学費です（今年は未実施）</p>
+        <p style="text-align: right; font-size: 0.8em;">この写真は2018年の横浜キャンパスのイルミネーションの様子です</p>
       </div>
     </div>
     <b-container>

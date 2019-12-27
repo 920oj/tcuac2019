@@ -14,7 +14,7 @@ export default {
       { property: 'og:title', content: 'Tokyo City University Advent Calendar 2019 特設サイト'},
       { property: 'og:site_name', content: 'Tokyo City University Advent Calendar 2019 特設サイト'},
       { property: 'og:image', content: 'https://tcuac2019.netlify.com/img/ogp.png'},
-      { property: 'og:description', content: '2月のはじめからクリスマスまでの25日間、東京都市大学に在籍する学生が持ち回りで自分の好きな話題について記事を執筆するイベントです。'},
+      { property: 'og:description', content: '12月のはじめからクリスマスまでの25日間、東京都市大学に在籍する学生が持ち回りで自分の好きな話題について記事を執筆するイベントです。'},
       { property: 'twitter:card', content: 'summary_large_image'}
     ],
     link: [
